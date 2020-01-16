@@ -1,0 +1,79 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body
+{
+	background:#FEE2CC;
+}
+.wrapper
+{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	background:#FEE2CC;
+}
+.rightheader
+{
+	width:794px;
+	height:150px;
+	border-bottom:6px groove #FEB983 ;
+	float:right;
+	}
+	.leftheader
+{
+	width:200px;
+	height:150px;
+	border-bottom:6px groove #FEB983 ;
+	border-left:6px groove #FEB983 ;
+	float:left;
+	}
+	.left{
+		width:794px;
+		height:auto;
+		float:left;
+		background:#FEFECC;
+	}
+		.right{
+		width:200px;
+		height:auto;
+		background:#CCFEFC ;
+		float:right;
+		border-left:6px groove  #FEB983 ;
+	}
+	
+.right a
+{
+	text-decoration:none;
+	color:#0B2F47;
+	font-size:22px;
+	font-family:Times new roman;
+	text-align:left;
+	display:block;
+	padding:7px;
+	margin-bottom:6px;
+}
+.right a:hover
+{
+	text-decoration:underline;
+	font-weight:bolder;
+}
