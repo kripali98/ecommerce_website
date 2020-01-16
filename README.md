@@ -6,5 +6,5 @@ it provides following functionalities-
 3)categorization of products 
 4)search option
 5)admin functions to add,edit and delete products
-6)product details with a zoom the product facility
+6)product details and trending products slideshow
 7)customer details with edit option
